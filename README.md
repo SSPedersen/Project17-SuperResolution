@@ -1,6 +1,7 @@
 # VAE-and-LVAE-Super-Resolution
 
 An implementation of Variational Auto-Encoder, VAE, along with Ladder Variational Auto-Encoder, LVAE, capable of producing Super Resolution images given the dataset CIFAR-10.
+
 Find the code at Google Colab: https://colab.research.google.com/drive/1sUO5HU294B9qQ3SFlVdq6dzXCsjtjcKm?usp=sharing
 
 Implemented by:
